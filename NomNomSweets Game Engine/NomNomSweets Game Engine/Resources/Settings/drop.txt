@@ -1,0 +1,6 @@
+>lifetime_
+5
+>score_
+3
+>type_
+4

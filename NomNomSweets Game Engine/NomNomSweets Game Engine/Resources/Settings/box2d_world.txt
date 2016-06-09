@@ -1,0 +1,10 @@
+>gravityX_
+0.0
+>gravityY_
+9.8
+>time_step_
+0.01666667
+>velocity_iteratoins_
+8
+>position_iterations_
+3

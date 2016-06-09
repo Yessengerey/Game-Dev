@@ -1,0 +1,12 @@
+width-
+300.0
+height-
+20.0
+posx-
+900.0
+posy-
+200.0
+density-
+1.0
+tex-
+pinkthin.png

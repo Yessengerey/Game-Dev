@@ -1,0 +1,6 @@
+﻿  Main.cpp
+i:\nomnomsweets game engine\nomnomsweets game engine\main.cpp(25): warning C4018: '<' : signed/unsigned mismatch
+i:\nomnomsweets game engine\nomnomsweets game engine\main.cpp(105): warning C4018: '<' : signed/unsigned mismatch
+i:\nomnomsweets game engine\nomnomsweets game engine\main.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+i:\nomnomsweets game engine\nomnomsweets game engine\main.cpp(145): warning C4018: '<' : signed/unsigned mismatch
+  NomNomSweets Game Engine.vcxproj -> I:\NomNomSweets Game Engine\Debug\NomNomSweets Game Engine.exe

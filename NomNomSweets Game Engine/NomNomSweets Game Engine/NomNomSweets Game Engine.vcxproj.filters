@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Physics">
+      <UniqueIdentifier>{e3d76a76-1e1b-442e-a89f-1b8357452507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{247c29e8-b2fd-4608-bb59-892053e7dcaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Management">
+      <UniqueIdentifier>{4bf35376-f3e2-4bc0-965b-3db3245f16a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Entities">
+      <UniqueIdentifier>{5431995b-da27-4406-b253-547d7ae9fb77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Supplementary">
+      <UniqueIdentifier>{6ba5e0c5-8d31-4fd3-8b93-4dcc97c24410}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File I/O">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Game Logic">
+      <UniqueIdentifier>{9a72c31a-e8c2-4126-83f3-0e6ab1f1ecd6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="SFXManager.cpp">
+      <Filter>Resource Management</Filter>
+    </ClCompile>
+    <ClCompile Include="PXWorldObject.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEntity.cpp">
+      <Filter>Game Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game Logic</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Resource Management</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Supplementary</Filter>
+    </ClInclude>
+    <ClInclude Include="AllResManager.h">
+      <Filter>Resource Management</Filter>
+    </ClInclude>
+    <ClInclude Include="SFXManager.h">
+      <Filter>Resource Management</Filter>
+    </ClInclude>
+    <ClInclude Include="PXWorldObject.h">
+      <Filter>Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEntity.h">
+      <Filter>Game Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadFile.h">
+      <Filter>File I/O</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldContactListener.h">
+      <Filter>Game Logic</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTimer.h">
+      <Filter>Supplementary</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
