@@ -1,10 +1,1 @@
-﻿  Main.cpp
-Main.cpp(25): warning C4018: '<' : signed/unsigned mismatch
-Main.cpp(105): warning C4018: '<' : signed/unsigned mismatch
-Main.cpp(125): warning C4018: '<' : signed/unsigned mismatch
-Main.cpp(145): warning C4018: '<' : signed/unsigned mismatch
-  Generating code
-i:\nomnomsweets game engine\nomnomsweets game engine\game.cpp(134): warning C4715: 'Game::updateCollisions' : not all control paths return a value
-i:\nomnomsweets game engine\nomnomsweets game engine\texturemanager.cpp(31): warning C4715: 'TextureManager::retrieveTexture' : not all control paths return a value
-  Finished generating code
-  NomNomSweets Game Engine.vcxproj -> I:\NomNomSweets Game Engine\Release\NomNomSweets Game Engine.exe
+﻿  NomNomSweets Game Engine.vcxproj -> E:\Users\Yessengerey\GitHub Repo\Game-Dev\NomNomSweets Game Engine\Release\NomNomSweets Game Engine.exe
